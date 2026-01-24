@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\User\\OneDrive\\Desktop\\git\\api-trust-meter\\contracts\\contracts\\ApiUsageMeter.sol": {
+      "lastModificationDate": 1768816003625,
+      "contentHash": "878b09944269d92e4fb2eb0679394199",
+      "sourceName": "contracts/ApiUsageMeter.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "ApiUsageMeter"
+      ]
+    }
+  }
+}
